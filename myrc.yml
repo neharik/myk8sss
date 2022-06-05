@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: mylogin-container
-          image: neharika/myjavaimage24may22:2
+          image: neharika/duplicateimage:1
           ports:
             - containerPort: 8080 
